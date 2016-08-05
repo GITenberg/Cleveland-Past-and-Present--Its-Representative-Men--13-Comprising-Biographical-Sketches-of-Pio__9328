@@ -1,0 +1,24 @@
+_repo: Cleveland-Past-and-Present--Its-Representative-Men--13-Comprising-Biographical-Sketches-of-Pio__9328
+_version: 0.0.1
+contributor:
+  unknown_contributor:
+    agent_name: Joblin, Maurice
+    gutenberg_agent_id: '3016'
+    url: http://www.gutenberg.org/2009/agents/3016
+description: ''
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F476'
+- !lcsh 'Cleveland (Ohio) -- Biography'
+- !lcsh 'Cleveland (Ohio) -- History'
+- GITenberg
+title: "Cleveland Past and Present: Its Representative Men\r\nComprising Biographical\
+  \ Sketches of Pioneer Settlers and Prominent Citizens"
+url: http://www.gutenberg.org/ebooks/9328
