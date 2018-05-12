@@ -1,11 +1,16 @@
 _repo: Cleveland-Past-and-Present--Its-Representative-Men--13-Comprising-Biographical-Sketches-of-Pio__9328
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   unknown_contributor:
     agent_name: Joblin, Maurice
     gutenberg_agent_id: '3016'
     url: http://www.gutenberg.org/2009/agents/3016
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9328#Cleveland-Past-and-Present--Its-Representative-Men--13-Comprising-Biographical-Sketches-of-Pio_
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
 identifiers:
